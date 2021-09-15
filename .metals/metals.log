@@ -1,0 +1,10 @@
+[0m2021.09.06 22:30:33 INFO  Started: Metals version 0.10.5 in workspace 'G:\rails\railfriends\friends' for client Visual Studio Code 1.60.0.[0m
+[0m2021.09.06 22:30:37 INFO  time: initialize in 4.26s[0m
+[0m2021.09.06 22:30:39 WARN  Build server is not auto-connectable.[0m
+[0m2021.09.06 22:30:39 WARN  no build tool detected in workspace 'G:\rails\railfriends\friends'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.09.07 18:06:43 INFO  shutting down Metals[0m
+[0m2021.09.12 12:29:43 INFO  Started: Metals version 0.10.6 in workspace 'G:\rails\railfriends\friends' for client Visual Studio Code 1.60.0.[0m
+[0m2021.09.12 12:29:51 INFO  time: initialize in 8.02s[0m
+[0m2021.09.12 12:30:05 WARN  Build server is not auto-connectable.[0m
+[0m2021.09.12 12:30:05 WARN  no build tool detected in workspace 'G:\rails\railfriends\friends'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.09.12 21:31:53 INFO  shutting down Metals[0m
